@@ -1,4 +1,4 @@
-![Web Performance Matters](https://i.ibb.co/g61QDmK/performance.jpg)
+<img alt="" src="https://i.ibb.co/2c5vdRf/performance-big.jpg" width="650" height="233" />
 
 # Cześć 👋
 
